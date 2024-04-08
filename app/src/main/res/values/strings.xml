@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="artist">All Seeing Seneca</string>
+    <string name="content_description_bayc_1">bayc_1</string>
+    <string name="content_description_bayc_2">bayc_2</string>
+    <string name="content_description_bayc_3">bayc_3</string>
+    <string name="content_description_bayc_4">bayc_4</string>
+    <string name="image_title_bayc_1">Bored Ape Yacht Club #1</string>
+    <string name="image_title_bayc_2">Bored Ape Yacht Club #2</string>
+    <string name="image_title_bayc_3">Bored Ape Yacht Club #3</string>
+    <string name="image_title_bayc_4">Bored Ape Yacht Club #4</string>
+</resources>
